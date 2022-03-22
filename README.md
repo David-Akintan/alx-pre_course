@@ -1,3 +1,3 @@
-My First readme
-I just started a Software Engineering Course at AlX
-We are at the section of Git
+👋 Hi, I’m @David-Akintan
+👀 I’m interested in Machine Learning and Artificial intelligence 
+🌱 I’m currently learning Software Engineering at ALX for a period of 12 months
